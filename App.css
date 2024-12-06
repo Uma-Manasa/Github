@@ -1,0 +1,35 @@
+/* Global styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* App container */
+.App {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  text-align: center;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  padding-top: 20px;
+}
+
+/* Dashboard section */
+.dashboard {
+  padding: 20px;
+}
+
+/* Heading styles */
+h1, h2 {
+  margin: 0;
+}
+
+h2 {
+  color: #007bff;
+}
+
+/* Paragraph styles */
+p {
+  color: #555;
+}
